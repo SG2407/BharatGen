@@ -1,4 +1,4 @@
-'''no longer needed 
+'''no longer needed  as finetuned the model 
 from transformers import BlenderbotTokenizer, BlenderbotForConditionalGeneration
 
 class EmpathyService:
