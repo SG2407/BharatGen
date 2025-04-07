@@ -1,4 +1,4 @@
-''' no longer needed 
+''' no longer needed, as finetuned the model 
 from typing import Dict, Tuple, List
 import torch
 from transformers import AutoTokenizer, AutoModelForSequenceClassification, pipeline
