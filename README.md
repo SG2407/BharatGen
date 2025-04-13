@@ -88,10 +88,4 @@ This repository contains various AI-driven solutions designed to address medical
 
 ---
 
-## ⚙️ Installation & Setup
 
-```bash
-git clone https://github.com/your-username/ai-healthcare-assistants.git
-cd ai-healthcare-assistants
-npm install  # or pip install -r requirements.txt
-npm run dev  # or uvicorn main:app --reload
