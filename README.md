@@ -75,17 +75,6 @@ This repository contains various AI-driven solutions designed to address medical
 
 ---
 
-## 🛠️ Tech Stack
 
-- **Frontend:** React Native / Next.js
-- **Backend:** FastAPI / Node.js
-- **AI/ML Frameworks:** TensorFlow, PyTorch, Hugging Face, OpenAI API
-- **NLP & TTS:** spaCy, GPT models, Google TTS / Amazon Polly
-- **CV & OCR:** OpenCV, Tesseract, MediaPipe
-- **Database:** PostgreSQL / Supabase / Firebase
-- **Authentication:** JWT / OAuth2
-- **Notification Systems:** Firebase Cloud Messaging / Local Push
-
----
 
 
